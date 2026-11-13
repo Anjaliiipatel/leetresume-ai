@@ -1,0 +1,22 @@
+Software Engineering Intern (Summer 2027)
+
+About the Role
+We are looking for a Software Engineering Intern to join our cloud platform team. You will build and ship backend services used by internal teams and external customers.
+
+Responsibilities
+- Design, develop, and test RESTful APIs using Python and Go
+- Build and maintain CI/CD pipelines with GitHub Actions
+- Deploy and monitor containerized services on AWS using Docker and Kubernetes
+- Write unit and integration tests and participate in code reviews
+- Collaborate with a team of engineers in an Agile environment
+
+Qualifications
+- Currently pursuing a BS/MS in Computer Science or a related field
+- Experience with Python, Java, or C++
+- Familiarity with SQL and relational databases (PostgreSQL preferred)
+- Exposure to cloud platforms (AWS, GCP, or Azure)
+- Understanding of data structures, algorithms, and Git
+
+Nice to Have
+- Experience with Docker, Kubernetes, or Terraform
+- Personal or class projects deployed to the cloud
