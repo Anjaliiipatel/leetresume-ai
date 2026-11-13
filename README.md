@@ -62,7 +62,7 @@ git --version
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/leetresume-ai.git
+git clone https://github.com/Anjaliiipatel/leetresume-ai.git
 cd leetresume-ai
 ```
 
