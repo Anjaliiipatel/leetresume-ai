@@ -247,6 +247,6 @@ Still stuck? Ask an officer in the room or post in the club Discord.
 
 ## Contact
 
-Questions about the workshop? Reach the Purdue LeetCode Club on Discord: `<ADD YOUR DISCORD INVITE LINK>`
+Questions about the workshop? Reach the Purdue LeetCode Club on Slack: https://join.slack.com/t/leetcodeclubpurdue/shared_invite/zt-4g8bg07td-zt6gGjfFl8bo7FIxC0Q7eg
 
 Built by the Purdue LeetCode Club.
