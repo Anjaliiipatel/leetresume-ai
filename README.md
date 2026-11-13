@@ -1,6 +1,6 @@
 # LeetResume.AI: Agentic Career Co-Pilot
 
-**Purdue LeetCode Club Workshop** · November 11th, 2026 · RAWLS 1086 · 6:00 to 8:30 PM
+**Purdue LeetCode Club Workshop** · November 17th, 2026 · STEW 314 · 6:00 to 7:30 PM
 
 Build a local multi-agent resume co-pilot with **Python, Streamlit, and CrewAI**, powered by **Purdue GenAI Studio**. Instead of one generic prompt, two specialized AI agents work as a pipeline: an ATS critic audits your resume against a real job posting, then a technical writer rewrites your bullets using the **Google XYZ formula**:
 
